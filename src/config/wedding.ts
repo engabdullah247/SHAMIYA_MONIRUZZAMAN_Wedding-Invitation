@@ -5,9 +5,9 @@
 export const wedding = {
   initials: "S & M",
   brideLabel: "BRIDE NAME:",
-  bride: "SHAMIYA HOSSAIN SHIN",
+  bride: "Shamiya Hossain Shin",
   groomLabel: "GROOM NAME:",
-  groom: "MONIRUZZAMAN RABBI",
+  groom: "Moniruzzaman Rabbi",
   event: {
     dateLabel: "Friday, 11 December 2026",
     weekday: "Friday",
@@ -15,18 +15,18 @@ export const wedding = {
     month: "December",
     year: "2026",
     timeLabel: "12:30 PM – 3:30 PM",
-    venue: "AMANA FOOD VILLE, SKS TOWER, MOHAKHALI",
+    venue: "Amana Food Ville, SKS Tower, Mohakhali",
     mapsUrl: "https://maps.app.goo.gl/h1nJqr7ijbSA9yDH7",
   },
   groomFamily: {
     title: "The Groom’s Family",
-    father: "MD SELIM",
-    mother: "SHAHANAZ PARVIN JORNA",
+    father: "Md. Selim",
+    mother: "Shahanaz Parvin Jorna",
   },
   brideFamily: {
     title: "The Bride’s Family",
-    father: "LATE MD MONIR HOSSAIN",
-    mother: "MRS. MONIRA BEGUM",
+    father: "Late Md Monir Hossain",
+    mother: "Mrs. Monira Begum",
   },
   copy: {
     coverPhrase: "Two hearts, one beautiful beginning.",
